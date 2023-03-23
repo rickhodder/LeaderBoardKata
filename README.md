@@ -49,7 +49,7 @@ How would you modify your solution to work for any given data type? Instead of p
 
 Here are the steps I took before starting to work on this kata
 
-I created a new Github repository called FizzBuzz https://github.com/rickhodder/LeaderBoardKata
+I created a new Github repository called  https://github.com/rickhodder/LeaderBoardKata
 
 No template
 Include Readme.md
