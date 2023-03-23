@@ -71,5 +71,5 @@ dotnet sln add .\LeaderBoardKata.csproj
 
 dotnet new class --name LeaderBoardService
 
-rename unittest1.cs LeaderBoardTests.cs
-Finally, open LeaderBoardTests.cs, and change the name of the class from "UnitTest1" to "LeaderBoardTests"
+rename unittest1.cs LeaderBoardServiceTests.cs
+Finally, open LeaderBoardServiceTests.cs, and change the name of the class from "UnitTest1" to "LeaderBoardServiceTests"
